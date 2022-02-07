@@ -1,0 +1,25 @@
+:root {
+	font-size: 10px;
+}
+
+.grid {
+	background-color: yellow;
+	height: 60rem;
+	position: relative;
+	width: 40rem;
+}
+
+.doodler {
+	background-color: blue;
+	background-color: red;
+	height: 8.5rem;
+	position: absolute;
+	width: 6rem;
+}
+
+.platform {
+	background-color: green;
+	height: 1.5rem;
+	position: absolute;
+	width: 8.5rem;
+}
